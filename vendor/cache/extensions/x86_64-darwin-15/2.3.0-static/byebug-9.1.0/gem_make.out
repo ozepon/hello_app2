@@ -1,0 +1,19 @@
+current directory: /Users/Mac/dandywork/rails5/hello_app/vendor/cache/gems/byebug-9.1.0/ext/byebug
+/Users/Mac/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20171107-99866-17o7pgy.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Mac/dandywork/rails5/hello_app/vendor/cache/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/Mac/dandywork/rails5/hello_app/vendor/cache/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/Mac/dandywork/rails5/hello_app/vendor/cache/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20171107-99866-1byersu/byebug
